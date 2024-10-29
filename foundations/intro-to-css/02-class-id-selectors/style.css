@@ -1,0 +1,18 @@
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sized {
+    font-size: 34px;
+}
+
+#seond {
+    color:blue;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-weight: bold;
+}
